@@ -10,4 +10,4 @@ this is the test for git!
 this is the test for git!
 this is the test for git!
 hello!!
-modified!!!
+master test!
